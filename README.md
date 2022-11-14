@@ -1,4 +1,4 @@
-Aster
+# Asteroid
 
 An Asteroids clone using C++ and SDL/SDL_Draw
 
